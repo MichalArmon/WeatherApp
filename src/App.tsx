@@ -1,6 +1,6 @@
 import { Container } from "@mui/material";
-import ActionSection from "./assets/components/ActionSection";
-import WeatherSection from "./assets/components/WeatherSection";
+import ActionSection from "./components/ActionSection";
+import WeatherSection from "./components/WeatherSection";
 
 function App() {
   return (
